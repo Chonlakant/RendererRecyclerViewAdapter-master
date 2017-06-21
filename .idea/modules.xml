@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RendererRecyclerViewAdapter.iml" filepath="$PROJECT_DIR$/RendererRecyclerViewAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RendererRecyclerViewAdapter-master.iml" filepath="$PROJECT_DIR$/RendererRecyclerViewAdapter-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rendererrecyclerviewadapter/rendererrecyclerviewadapter.iml" filepath="$PROJECT_DIR$/rendererrecyclerviewadapter/rendererrecyclerviewadapter.iml" />
+    </modules>
+  </component>
+</project>
